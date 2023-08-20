@@ -41,7 +41,7 @@ Put the images you want to use in the `input` folder, sorted numerically, with n
 python3 main.py
 ```
 
-## How to use
+## How to use
 
 1. Put the images you want to use in the `input` folder, with the names: `1.png`, `2.png`, ...
 2. Run the script: `python3 main.py`
